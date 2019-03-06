@@ -1,0 +1,17 @@
+ body {
+    }
+
+    .main {
+    }
+    .main .picture {
+        padding-top: 15px;
+        padding-left: 5px;
+        text-align: left;
+    }
+    .main .info{
+    }
+
+    .main img {
+        float: left;
+    }
+}
